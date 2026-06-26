@@ -20,4 +20,4 @@ Este projeto visa analisar a rentabilidade operacional de diferentes unidades de
 - Agilidade no processo de *Business Review* mensal com a diretoria financeira.
 
 ---
-*Projeto desenvolvido como parte do portfólio técnico em Finanças Corporativas.*
+Feito por Lucas Melo | *Projeto desenvolvido como parte do portfólio técnico em Finanças Corporativas.*
